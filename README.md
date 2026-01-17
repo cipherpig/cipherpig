@@ -8,10 +8,6 @@
 
  🛠 Languages & Tools
 
-<p align="center">
-  <!-- Arch Linux -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="40" height="40"/>
-  
   <!-- Rust -->
   ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
   
