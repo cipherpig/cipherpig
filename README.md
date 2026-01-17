@@ -19,10 +19,7 @@
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   
   <!-- Lua -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
-  
-  <!-- Bash -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/> 
   
   <!-- Ash -->
   ![Ash](https://img.shields.io/badge/Ash-shell-4EAA25?style=for-the-badge&logo=terminal&logoColor=white)
@@ -30,11 +27,9 @@
   <!-- Fish -->
   ![Fish](https://img.shields.io/badge/Fish-shell-4EAA25?style=for-the-badge&logo=terminal&logoColor=white)
   
-  <!-- PowerShell -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-plain.svg" alt="PowerShell" width="40" height="40"/>
   
  <!-- Skills -->
 
-  [![My Skills](https://skillicons.dev/icons?i=github,docker,kubernetes,macOS,linux,powershell&perline=3)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=github,docker,kubernetes,macOS,linux,powershell,bash&perline=3)](https://skillicons.dev)
 </p>
 
