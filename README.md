@@ -30,6 +30,6 @@
   
  <!-- Skills -->
 
-  [![My Skills](https://skillicons.dev/icons?i=github,docker,kubernetes,macOS,linux,powershell,bash&perline=3)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=github,docker,kubernetes,linux,powershell,bash&perline=3)](https://skillicons.dev)
 </p>
 
