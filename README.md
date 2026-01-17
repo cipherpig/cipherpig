@@ -32,5 +32,7 @@
   
   <!-- PowerShell -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-plain.svg" alt="PowerShell" width="40" height="40"/>
+ <!-- Skills -->
+  [![My Skills](https://skillicons.dev/icons?i=github,docker,kubernetes,macOS,linux,windows&perline=3)](https://skillicons.dev)
 </p>
 
